@@ -1,3 +1,7 @@
+telegram_bot_api_token.py
+tg_api_token.py
+loading_model_ResNet50.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
