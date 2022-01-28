@@ -9,5 +9,5 @@ User sends a photo and bot determines what is in the picture (using ResNet50).
 
 ## Text generation bot:
 
-Generates text in the style of a poem 'Moscow-Perushki' by V.Erofeev (GPT2).
+Generates text in the style of a poem 'Moscow-Petushki' by V.Erofeev (trained GPT2).
 * run text_generation_bot.py
